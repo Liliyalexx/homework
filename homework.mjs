@@ -39,7 +39,12 @@ if(plantsAfterThreeWeeks > 0.8 * area){
 } else{
     console.log("Planted")
 }
- 
+ /////////////////////////////////////////////////////////////////
+
+
+ const plant = 100
+ const weeks = 10
+ const areaAfter10Days = area * 10;
 
  
 
